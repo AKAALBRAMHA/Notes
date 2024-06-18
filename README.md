@@ -58,7 +58,11 @@
 ## 🌐 Platforms
 - [Almabetter](https://grow.almabetter.com/data-science/home)
 - [W3Schools](https://www.w3schools.com/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/dashboard)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
+- [Cyfrin Updraft](https://updraft.cyfrin.io/dashboard)
+- [Alchemy University](https://university.alchemy.com/home)
 
 ## 📘 Resources
 - [DataCamp](https://www.datacamp.com/cheat-sheet)
